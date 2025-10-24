@@ -16,7 +16,7 @@
 
 ### 🌟 About Me  
 
-- 🎓 I’m currently pursuing **B.Tech in CSE (AIML)**  
+- 🎓 I’m currently pursuing **B.Tech in CSE (AIML) From MIT,Meerut**  
 - 🌱 I’m learning **Web Development** and **Python**  
 - 💡 Exploring **AI**, **Machine Learning**, and **Frontend Development**  
 - 🔭 Working on **Edu-Learn Pro**  
