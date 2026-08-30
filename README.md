@@ -1,3 +1,4 @@
+```markdown
 # Kartikey
 
 ## Computer Science Engineering Student | AI/ML | Software Development | Web Development
@@ -15,7 +16,7 @@ Currently developing skills in Python, Java, JavaScript, HTML, CSS, SQL, databas
 - Interested in Software Development, Artificial Intelligence, Machine Learning, Web Development, and Game Development
 - Currently learning Python, Java, Data Structures and Algorithms, AI/ML, and Web Development
 - Experience with software development and web development projects
-- Interested in developing scalable, user-focused, and practical applications
+- Interested in developing practical, user-focused applications
 - Open to learning new technologies and working on collaborative projects
 
 ---
@@ -69,7 +70,7 @@ Currently developing skills in Python, Java, JavaScript, HTML, CSS, SQL, databas
 
 - Power BI
 
-### Tools and Technologies
+### Tools and Platforms
 
 - Git
 - GitHub
@@ -208,15 +209,17 @@ Expected Graduation: 2028
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kartikey-jaat&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kartikey-jaat&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    alt="Kartikey's GitHub Statistics"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-jaat&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Programming Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikey-jaat&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikey-jaat&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600"
+    alt="Kartikey's Most Used Languages"
+  />
 </p>
 
 ---
@@ -250,3 +253,4 @@ Seeking opportunities to gain practical experience in:
 ## Keywords
 
 Computer Science Engineering, Artificial Intelligence, Machine Learning, Python, Java, C, JavaScript, HTML, CSS, SQL, MySQL, MongoDB, Git, GitHub, Web Development, Frontend Development, Software Development, Generative AI, API Integration, TensorFlow, Scikit-learn, NumPy, Pandas, Power BI, Data Structures and Algorithms, Database Management Systems, Flask, REST APIs, Tkinter
+```
