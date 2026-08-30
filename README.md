@@ -2,19 +2,19 @@
 
 ## Computer Science Engineering Student | AI/ML | Software Development | Web Development
 
-B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning) student at Meerut Institute of Technology, Meerut, with an interest in software development, web development, artificial intelligence, machine learning, and application development.
+B.Tech Computer Science and Engineering (Artificial Intelligence and Machine Learning) student at Meerut Institute of Technology, with an interest in software development, web development, artificial intelligence, machine learning, and application development.
 
-Currently developing skills in Python, Java, C, JavaScript, HTML, CSS, SQL, database management, Git, and GitHub. Interested in building practical software applications, AI-powered systems, and responsive web applications.
+Currently developing skills in Python, Java, JavaScript, HTML, CSS, SQL, database management, Git, and GitHub. Interested in building practical software applications, AI-powered systems, and responsive web applications.
 
 ---
 
 ## About
 
 - B.Tech in Computer Science and Engineering (Artificial Intelligence and Machine Learning)
-- Meerut Institute of Technology, Meerut
+- Meerut Institute of Technology
 - Interested in Software Development, Artificial Intelligence, Machine Learning, Web Development, and Game Development
 - Currently learning Python, Java, Data Structures and Algorithms, AI/ML, and Web Development
-- Experience with academic and personal software development projects
+- Experience with software development and web development projects
 - Interested in developing scalable, user-focused, and practical applications
 - Open to learning new technologies and working on collaborative projects
 
@@ -28,6 +28,7 @@ Currently developing skills in Python, Java, C, JavaScript, HTML, CSS, SQL, data
 - Java
 - C
 - JavaScript
+- SQL
 
 ### Web Development
 
@@ -37,6 +38,7 @@ Currently developing skills in Python, Java, C, JavaScript, HTML, CSS, SQL, data
 - Responsive Web Design
 - Frontend Development
 - DOM Manipulation
+- Flask
 
 ### Artificial Intelligence and Machine Learning
 
@@ -46,6 +48,15 @@ Currently developing skills in Python, Java, C, JavaScript, HTML, CSS, SQL, data
 - Python for AI and Machine Learning
 - Generative AI
 - API Integration
+- TensorFlow
+- Scikit-learn
+
+### Data Science
+
+- NumPy
+- Pandas
+- Data Analysis
+- Data Processing
 
 ### Databases
 
@@ -54,64 +65,101 @@ Currently developing skills in Python, Java, C, JavaScript, HTML, CSS, SQL, data
 - SQL
 - Database Management Systems
 
+### Data Visualization
+
+- Power BI
+
 ### Tools and Technologies
 
 - Git
 - GitHub
-- Node.js
-- VS Code
+- Visual Studio Code
+- Vercel
 - Tkinter
 - REST APIs
+
+### Core Concepts
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
 
 ---
 
 ## Projects
 
-### Edu-Learn Pro
+### JARVIS AI - Voice Assistant
 
-An educational web application designed to provide an interactive and user-friendly learning experience.
+A Python-based desktop voice assistant designed to accept spoken commands, provide voice responses, and automate common desktop and web tasks.
 
-**Technologies:** HTML, CSS, JavaScript
+**Technologies:** Python, SpeechRecognition, pyttsx3, OpenCV, face_recognition
 
 **Key Features:**
-- Responsive user interface
-- Interactive learning components
-- Course and educational content sections
-- Client-side JavaScript functionality
-- User-friendly navigation
-- Structured frontend architecture
+
+- Voice-based command recognition
+- Text-to-speech responses
+- Face registration and verification
+- Desktop application automation
+- Website launching and web search
+- Date and time retrieval
+- Mathematical calculations
+- Voice-controlled application and web operations
 
 ---
 
-### Nova AI
+### EduLearn Pro - Online Learning Platform
 
-A Python-based AI assistant designed to provide conversational interaction and perform user-requested tasks.
+An educational web application designed to provide an interactive and user-friendly learning experience.
 
-**Technologies:** Python, Tkinter, Gemini API, Generative AI
+**Technologies:** HTML5, CSS3, JavaScript, LocalStorage
 
 **Key Features:**
-- AI-powered conversational interaction
-- Graphical user interface
-- API integration
-- Voice interaction
-- Hindi and English language support
-- Website and application assistance
+
+- Responsive user interface
+- Course browsing and category filtering
+- Course details and enrollment
+- Student profiles
+- Learning progress tracking
+- Client-side routing
+- Dynamic DOM rendering
+- Browser-based data persistence
+
+---
+
+### Mental Health Habit Tracker - Web Application
+
+A responsive web application designed for tracking daily habits, moods, journal entries, and personal progress.
+
+**Technologies:** HTML5, CSS3, JavaScript, LocalStorage, Vercel
+
+**Key Features:**
+
+- Habit creation and completion tracking
+- Streak tracking
+- Mood and journal management
+- Filtering and sorting
+- Dashboard statistics
+- Dark mode
+- LocalStorage-based data persistence
+- Import and export functionality
 
 ---
 
 ### Web Development Projects
 
-Developed multiple frontend projects using HTML, CSS, and JavaScript.
+Developed multiple frontend projects using HTML, CSS, and JavaScript to strengthen practical web development skills.
 
 **Technologies:** HTML5, CSS3, JavaScript
 
 **Areas Covered:**
+
 - Responsive web design
 - User interface development
 - Interactive web components
 - JavaScript functionality
 - DOM manipulation
 - Frontend application development
+- Client-side data management
 
 ---
 
@@ -119,7 +167,7 @@ Developed multiple frontend projects using HTML, CSS, and JavaScript.
 
 ### Bachelor of Technology - Computer Science and Engineering (Artificial Intelligence and Machine Learning)
 
-**Meerut Institute of Technology, Meerut**
+**Meerut Institute of Technology**
 
 Expected Graduation: 2028
 
@@ -185,20 +233,20 @@ Seeking opportunities to gain practical experience in:
 - Artificial Intelligence
 - Machine Learning
 - AI Application Development
-- Game Development
+- Generative AI
 
 ---
 
 ## Contact
 
-Email: k68287917@gmail.com
+**Email:** k68287917@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/kartikey-jaat
+**LinkedIn:** https://www.linkedin.com/in/kartikey-aiml/
 
-GitHub: https://github.com/kartikey-jaat
+**GitHub:** https://github.com/kartikey-jaat
 
 ---
 
 ## Keywords
 
-Computer Science Engineering, Artificial Intelligence, Machine Learning, Python, Java, C, JavaScript, HTML, CSS, SQL, MySQL, MongoDB, Git, GitHub, Web Development, Frontend Development, Software Development, Generative AI, API Integration, Data Structures and Algorithms, Database Management Systems, Game Development.
+Computer Science Engineering, Artificial Intelligence, Machine Learning, Python, Java, C, JavaScript, HTML, CSS, SQL, MySQL, MongoDB, Git, GitHub, Web Development, Frontend Development, Software Development, Generative AI, API Integration, TensorFlow, Scikit-learn, NumPy, Pandas, Power BI, Data Structures and Algorithms, Database Management Systems, Flask, REST APIs, Tkinter
